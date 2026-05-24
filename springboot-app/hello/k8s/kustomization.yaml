@@ -9,4 +9,4 @@ resources:
 images:
 - name: qwertyuiop900/hello-app
   newName: qwertyuiop900/hello-app
-  newTag: b08ada0
+  newTag: 8cb6798
